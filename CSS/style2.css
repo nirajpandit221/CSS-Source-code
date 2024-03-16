@@ -1,0 +1,52 @@
+*{
+    color : rgb(7, 12, 29);
+}
+h1{
+    color : rgb(236, 83, 28);
+}
+button{
+    color :rgb(39, 134, 165);
+    background-color: black;
+}
+body{
+   background-color :rgb(19, 41, 43) ;
+}
+box{
+    color :rgb(113, 77, 32);
+}
+h2{
+    color : black;
+}
+h4{
+    text-align : center;
+    text-decoration: underline;
+    color :brown;
+
+}
+h5{
+    font-weight : normal;
+}
+h4{
+    font-size: x-large;
+}
+div{
+    background-color: rgb(34, 88, 88);
+    display: inline;
+    
+}
+div{
+    background-color: bisque box;
+}
+style{
+    height: 50px;
+}
+.contentbox {
+    height: 100px;
+    widht: 100px;
+
+
+}
+div{
+    height:100;
+    widht: 100;
+}

@@ -1,0 +1,36 @@
+div{
+    height: 200px;
+    width: 200px;
+    /*background-image: url("hii.jpg");*/
+    background-color: rgb(9, 29, 13);
+    /*background-size: cover;*/
+
+}
+@media (max-width : 300px) {
+    div{
+        background-color: rgb(41, 176, 37);
+    }
+}
+@media (min-width : 300px) and (max-width:400px) {
+    div{
+        background-color: rgb(147, 99, 88);
+
+    }
+}
+@media (min-width : 400px) and (max-width:600px) {
+    div{
+        background-color: red;
+
+    }
+}
+@media (min-width : 600px) and (max-width:700px) {
+    div{
+        background-color: rgb(34, 23, 163);
+
+    }
+}@media (min-width : 700px) and (max-width:800px) {
+    div{
+        background-color: rgb(238, 29, 189);
+
+    }
+}

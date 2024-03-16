@@ -1,0 +1,20 @@
+h2{
+    color : rgb(20, 78, 111);
+}
+h1{
+    color : red;
+}
+button{
+    color : rgb(69, 36, 59);
+    background-color: rgb(191, 113, 196);
+}
+body{
+        background-color: rgb(81, 52, 52);
+        box{
+            color: blue;
+        }
+
+    }
+   
+
+
